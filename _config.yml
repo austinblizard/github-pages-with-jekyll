@@ -1,3 +1,7 @@
+---
+title: "Austin's Blog Posts"
+date: 2021-01-23
+---
 title: Austin's Website
 author: Austin Blizard 
 email: apbliz2004@gmail.com
@@ -10,8 +14,3 @@ twitter_username: your-twitter-handle # DO NOT include the @ character, or else 
 github_username:  austinblizard # DO NOT include the @ character, or else the build will fail!
 
 show_excerpts: true # set to false to remove excerpts on the homepage
-
----
-title: "My Blog"
-date: 2021-01-23
----
