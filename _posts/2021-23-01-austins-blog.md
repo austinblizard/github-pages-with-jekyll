@@ -7,6 +7,6 @@ Frontend developement in my own words I think is changing data to an interface, 
 
 What I've learned from the pinboard project is how I can link pictures to certain areas, as well as being able to change the colors of the background, & the type of font that you would want to be used.
 
-![Image Description](https://c1.tribebytes.com/assets/image-title.jpg)
+![Coding](https://c1.tribebytes.com/assets/image-title.jpg)
 
 I want to just try to overall imrpove myself in the course & expand my knowledge in coding.
