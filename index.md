@@ -1,3 +1,3 @@
 # Welcome to my blog
 
-I'm glad you are here. I plan to talk about my life & what I do for fun!
+I'm glad you're here! I plan to talk about my coding class & what all we do in the 2021 semester!

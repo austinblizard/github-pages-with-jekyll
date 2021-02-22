@@ -6,7 +6,7 @@ description: > # this means to ignore newlines until "baseurl:"
   Hi, I'm Austin, I'm 16 & I currently work at Walgreens!
 
 # social links
-twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
+instagram_username: austinblizard # DO NOT include the @ character, or else the build will fail!
 github_username:  austinblizard # DO NOT include the @ character, or else the build will fail!
-
+snapchat_username:  austinbliz04 
 show_excerpts: true # set to false to remove excerpts on the homepage
