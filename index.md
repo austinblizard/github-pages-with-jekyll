@@ -1,6 +1,7 @@
-
 ---
 title: "Welcome to my blog!"
+---
+Blog joke of the day - "As a blogger, I constantly feel cold, probably because I’m surrounded by so many drafts."
 ---
 Blog joke of the day - "As a blogger, I constantly feel cold, probably because I’m surrounded by so many drafts."
 
